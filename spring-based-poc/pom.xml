@@ -18,8 +18,10 @@
   </properties>
   
   	<modules>  
-		<module>spring-solr-tuto</module>
-		<module>spring-mvc-tuto</module>
+<!--	<module>spring-solr-tuto</module>
+		<module>spring-mvc-tuto</module> -->
+		<module>spring-mvc-tuto-java-config-style</module>
+		<module>spring-mvc-scheduler-tuto</module>
 	</modules>
   
   <dependencies>
